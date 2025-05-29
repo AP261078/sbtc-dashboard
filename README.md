@@ -1,1 +1,3 @@
-# SBTC B2B Dashboard\nInteractive dashboard built with Next.js, Tailwind, and Recharts.
+# SBTC Dashboard
+
+Dashboard untuk monitoring transaksi B2B platform SBTC.
